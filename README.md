@@ -2,7 +2,7 @@
 
 **Created by O.Divyareddy**
 
-🔗 **Live demo:** 
+🔗 **Live demo:** https://divyareddy0734-ops.github.io/student-/
 A responsive student dashboard for a B.Tech CSE (AI & ML) student. It shows courses, assignments, attendance, a weekly timetable, results and the student profile on one page. It is built with plain HTML, CSS and JavaScript, so there is nothing to install.
 
 ## Features
